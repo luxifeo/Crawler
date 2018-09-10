@@ -1,0 +1,19 @@
+{
+  "name": "crawl",
+  "version": "0.0.0",
+  "description": "Web crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Crawl",
+    "Puppeteer"
+  ],
+  "author": "Bui Duc Hoa",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
